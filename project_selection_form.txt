@@ -1,0 +1,23 @@
+------------------------------------------------------------------------
+Phase 1 Project Selection Status Report
+Name: James Hargreaves
+College: Gonville and Caius
+User Identifier: jh2045
+Director of Studies: Graham Titmus
+
+Please complete 1, 2 and 3 below.
+1. Please write 100 words on your current project ideas.
+Currently dictation can be, and is, used by people to take notes and write essays. However, it doesn’t work very well for writing code. This project will investigate how to support this. I have already undertaken a pilot study to explore methods for collecting an appropriate training corpus. Using the collected data I will compare techniques from traditional and statistical machine translation to map between spoken language transcripts and a well defined CFG pseudo code. A possible extension might be to include metadata from the speech audio, such as the intonation and duration of pauses, or to look at whether the programming experience of the user influences the way that they dictate a program.
+
+2. Please list names of potential project supervisors.
+Paula Buttery
+
+3. Is there any chance that your project will involve any
+computing resources other than the Computing Service’s MCS
+and software that is already installed there, for example:
+your own machine, machines in College, special peripherals,
+imported software packages, special hardware, network access,
+substantial extra disc space on the MCS.
+If so indicate below what, and what it is needed for.
+
+I plan to use my own computer, (2.9 GHz CPU, 16 GB RAM, 1TB Flash Storage, macOS Sierra).
