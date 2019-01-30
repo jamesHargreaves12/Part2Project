@@ -1,2 +1,8 @@
 9/10/18 Read through Ethics in Reaseach doc
 + Statement on plagiarism - even if own work that has been submitted for another assignment
+12/12/18
++ decision taken to initially ignore comments - might confuse the models since in natural English
++ first took audio and transcribed it (first 8 responses)
++ took the transcripts converted them to pseudocode
++ defined a pseudocode language grammar and ensured that all the files agreed with this
+B

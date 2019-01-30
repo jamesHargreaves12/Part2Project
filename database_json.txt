@@ -1,0 +1,56 @@
+{
+    "0" : [ null, {
+    "prompt" : "You eat at a restaurant and at the end of the meal you are given the price of the meal [meal_price] pre tax without a tip. You wish to calculate how much you will pay. Tax is 20%, Tip (calculated after the tax has been added) is 10%. Given meal price as an input, return the price you shall pay for the meal.",
+    "question_id": 1
+    },{
+    "prompt" : "There is a function largest which takes a list of integers [num_list], let highest be a variable that is instantiated to 0, while the list is not empty check to see if the first item on the list is bigger than highest if so…",
+    "question_id": 2
+    }],
+    "1": [ null, {
+    "prompt" : "Given a list of monthly rainfall figures for a year [months_rainfall] (ie list will have 12 items) return the total rainfall for that year.",
+    "question_id": 3
+    },{
+    "prompt" : "Take a shopping list [shopping_list] which will be a list of items, and a dictionary mapping from item to cost [item_cost_map] and calculate the total price of the items in the shopping list.",
+    "question_id": 4
+    }],
+    "2": [ null, {
+    "prompt" : "Print the integers 1 - 20 (you can assume a print function)",
+    "question_id": 5
+    },{
+    "prompt" : "Print the integers 1 - 20 but using the rules of the fizz buzz game. ie multiple of 3 are replaced by fizz multiples of 5 are replaced by buzz and multiples of both are replaced by fizz buzz (you can assume a print function)",
+    "question_id": 6
+    },{
+    "prompt" : "Give an integer n return a boolean value which represents whether or not the number is prime. You may assume a remainder(n,d) primitive",
+    "question_id": 7
+    },{
+    "prompt" : "Given an integer n return the nth fibonacci integer.",
+    "question_id": 8
+    },{
+    "prompt" : "Given an integer n return n factorial.",
+    "question_id": 9
+    },{
+    "prompt" : "Given an integer n return the sum of the integers from 1 to n.",
+    "question_id": 10
+    }],
+    "3": [ null, {
+    "prompt" : "Given a string [input_string] return a boolean value which represents whether the string is a palindrome or not.",
+    "question_id": 11
+    }],
+    "4":[ null, {
+    "prompt" : "Given a list of integers [number_list], and 2 indexes i and j (you can assume these are legal indicies in the list) swap the value of the items at location i and j and returns the new list.",
+    "question_id": 12
+    },{
+    "prompt" : "Given a list [input_list] sort the list from smallest to largest using the bubble sort algorithm - you may use the swap primitive previously defined swap(i,j,list).",
+    "question_id": 13
+    },{
+    "prompt" : "Given a list [input_list] sort the list from smallest to largest using the mergesort algorithm.",
+    "question_id": 14
+    }],
+    "5":[ null, {
+    "prompt" : "Given a list of integers [number_list] and another integer [coefficient] return the list multiplying each element of the list by the second integer",
+    "question_id": 15
+    },{
+    "prompt" : "Given a list of integers [number_list] and another integer [threshold] return the list of all items in the list greater than the second number.",
+    "question_id": 16
+    }]
+}
